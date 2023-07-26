@@ -5,6 +5,10 @@ Collect, discuss and manage bugs reports and feature requests related to [OntoME
 
 This repository is for collecting user feedback related to the web application [OntoME](https://ontome.net) in an open and transparent way.
 
+## General Issues and Best Practices
+
+See the [OntoME Manual and Use Cases](https://github.com/Semantic-Data-for-Humanities/OntoME/wiki).
+
 ## How do I give feedback?
 
 - Navigate to the _Issues_ tab and click on _New Issue_
