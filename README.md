@@ -5,6 +5,8 @@ Collect, discuss and manage bugs reports and feature requests related to [OntoME
 
 This repository is for collecting user feedback related to the web application [OntoME](https://ontome.net) in an open and transparent way.
 
+If a feedback merits specific development, it will be used to create an issue in the [OntoME source code repository](https://github.com/geovistory/ontome).
+
 ## General Issues and Use Cases
 
 See the [OntoME Manual and Use Cases](https://github.com/Semantic-Data-for-Humanities/OntoME/wiki).
