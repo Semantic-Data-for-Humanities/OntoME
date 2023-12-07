@@ -1,3 +1,8 @@
+# !This repo is no longer in use!
+
+Please send us your questions, bug reports or suggestions about OntoME in the Geovistory discussion section: https://github.com/orgs/geovistory/
+
+
 # OntoME feedback
 Collect, discuss and manage bugs reports and feature requests related to [OntoME](https://ontome.net)
 
